@@ -1,6 +1,6 @@
-![hippo](https://e-kartki.net.pl/kartki/72/5/d/50287.gif)
+# Hi there, I'm [Seweryn]! 👋
 
-🎓 **Education:** B.Eng. in Automation & Robotics @ Lodz University of Technology
+🎓 **Education:** Eng. student in **Automation & Robotics** @ Lodz University of Technology
 ### 👨‍💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -20,5 +20,9 @@
 ![Matlab](https://img.shields.io/badge/Matlab-MathWorks-orange?style=for-the-badge)
 ![CAD](https://img.shields.io/badge/CAD-3D%20Design-red?style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23FFAD00.svg?style=for-the-badge&logo=labview&logoColor=white)
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seweryn-jagodzi%C5%84ski-b5b59833b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewerynjagodzinski5@gmail.com)
 
 ![hippo](https://media.tenor.com/sK6WlJ9cUE4AAAAM/five-nights-at-freddys-fnaf.gif)
