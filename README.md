@@ -1,4 +1,4 @@
-# Hi there, I'm [Seweryn]! 👋
+# Hi there, I'm Seweryn! 👋
 
 🎓 **Education:** Eng. student in **Automation & Robotics** @ Lodz University of Technology
 ### 👨‍💻
