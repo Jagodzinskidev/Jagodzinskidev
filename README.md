@@ -1,4 +1,3 @@
-## Hi there 👋
 ![hippo](https://e-kartki.net.pl/kartki/72/5/d/50287.gif)
 
 🎓 **Education:** B.Eng. in Automation & Robotics @ Lodz University of Technology
@@ -21,3 +20,5 @@
 ![Matlab](https://img.shields.io/badge/Matlab-MathWorks-orange?style=for-the-badge)
 ![CAD](https://img.shields.io/badge/CAD-3D%20Design-red?style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23FFAD00.svg?style=for-the-badge&logo=labview&logoColor=white)
+
+![hippo](https://media.tenor.com/sK6WlJ9cUE4AAAAM/five-nights-at-freddys-fnaf.gif)
