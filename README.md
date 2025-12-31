@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![hippo](https://e-kartki.net.pl/kartki/72/5/d/50287.gif)
+
 🎓 **Education:** B.Eng. in Automation & Robotics @ Lodz University of Technology
 ### 👨‍💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
